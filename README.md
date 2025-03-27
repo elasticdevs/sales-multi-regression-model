@@ -24,6 +24,10 @@ The model uses the following input features:
 - Operational Metrics:
   - sales_cycle_duration: Average duration of sales cycle
   - csat_score: Customer satisfaction score
+![cost_function_surface](https://github.com/user-attachments/assets/9d3aa790-a0de-484e-a447-f831e74356d9)
+![interactive_regression_line](https://github.com/user-attachments/assets/e9263d01-06ac-4ecd-9fbe-a202724a54d4)
+![optimal_regression_line](https://github.com/user-attachments/assets/b23cc350-f752-4a06-b218-ec4da592a273)
+![data_distributioin](https://github.com/user-attachments/assets/e9ac1876-a98f-4bd0-9aff-a056071e1694)
 
 ## Requirements
 
